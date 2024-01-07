@@ -8,7 +8,7 @@ pdf_file_path = ("Source_Documents/A Comprehensive Survey of Hallucination Mitig
                  "Models.pdf")
 prompt = "What are the various hallucination mitigation techniques in Large language Models"
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 
 
